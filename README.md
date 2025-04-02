@@ -32,7 +32,7 @@ Responsivt design med Tailwind CSS
 
 1. Clone repo:
 ```bash
-git clone https://github.com/loay0013/movieapp-wexo.git
+git clone https://github.com/loay0013/wexo-movie-app.git
 
 2. Installer dependencies:
 npm install
